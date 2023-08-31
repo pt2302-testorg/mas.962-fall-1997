@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "1997",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Graphic Design"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "legacy_uid": "ec800171-8669-5c2e-cba7-6b4fec9f9a26",
+  "instructors": {
+    "content": [
+      "e06ce70d-9a10-a47e-0d78-f9a70a5d2eca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1f4b0a0b-32d2-fe63-146d-1ef68fcb31c0",
+    "website": "mas-962-digital-typography-fall-1997"
+  },
+  "course_title": "Digital Typography",
+  "course_description": "This class introduces studies in the algorithmic manipulation of type as word, symbol, and form. Problems covered will include semantic filtering, inherently unstable letterforms, and spoken letters.\u00a0The history and traditions of typography, and their entry into the digital age, will be studied. Weekly assignments using Java\u00ae\u00a0will explore new ways of looking at and manipulating type.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.962",
+  "course_image_thumbnail": {
+    "content": "dffaf9a0-ca41-3292-5834-6dd32b841ff9",
+    "website": "mas-962-digital-typography-fall-1997"
+  },
+  "learning_resource_types": [],
+  "site_uid": "7797d4bd-281e-4aca-8b57-34465917c133",
+  "site_short_id": "mas.962-fall-1997",
+  "title": "Course Metadata"
+}
